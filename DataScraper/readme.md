@@ -1,1 +1,1 @@
-# Scrap all the dataset you require for your ML Projects
+# Scrape all the dataset you require for your ML Projects
